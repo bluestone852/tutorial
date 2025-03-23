@@ -9,7 +9,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Next.js Test Page</title>
-        <meta name="description" content="A simple Next.js test page" />
+        <meta name="description" content="A simple Next.js tutorial page" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
